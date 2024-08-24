@@ -3,3 +3,8 @@ archive
 *.zip
 *.pt
 UNet++ A Nested U-Net Architecture.pdf
+*.pem
+*.txt
+TransBTS
+Result
+Pytorch_UNet
